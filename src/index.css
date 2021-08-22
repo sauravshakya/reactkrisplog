@@ -11,3 +11,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.login-form {
+  max-width: 300px;
+}
+.login-form p{
+  margin-bottom: 0;
+  font-size: 0.6rem;
+  font-weight: bold;
+  color: rgb(86, 77, 109);
+}
+.login-form .ant-checkbox-wrapper{
+  font-size: 0.6rem;
+  color: rgb(86, 77, 109);
+}
+.login-form .ant-checkbox{
+  font-size: 1.6rem;
+}
+
+.login-form-forgot {
+  float: right;
+  font-size: 0.6rem;
+  color:rgb(57, 1, 121)
+}
+.login-form-forgot:hover {
+  color:rgb(57, 1, 121);
+}
+
+.ant-col-rtl .login-form-forgot {
+  float: left;
+}
+.login-form-button {
+  width: 100%;
+  border-radius: 10px;
+  background: #390179; 
+}
