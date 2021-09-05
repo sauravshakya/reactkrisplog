@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/loginreplica/static/css/main.3ebf29b2.chunk.css",
+    "main.js": "/loginreplica/static/js/main.8d79ef21.chunk.js",
+    "main.js.map": "/loginreplica/static/js/main.8d79ef21.chunk.js.map",
+    "runtime-main.js": "/loginreplica/static/js/runtime-main.9dc70cf7.js",
+    "runtime-main.js.map": "/loginreplica/static/js/runtime-main.9dc70cf7.js.map",
+    "static/css/2.786ae0dd.chunk.css": "/loginreplica/static/css/2.786ae0dd.chunk.css",
+    "static/js/2.a03dcabc.chunk.js": "/loginreplica/static/js/2.a03dcabc.chunk.js",
+    "static/js/2.a03dcabc.chunk.js.map": "/loginreplica/static/js/2.a03dcabc.chunk.js.map",
+    "static/js/3.270d4592.chunk.js": "/loginreplica/static/js/3.270d4592.chunk.js",
+    "static/js/3.270d4592.chunk.js.map": "/loginreplica/static/js/3.270d4592.chunk.js.map",
+    "index.html": "/loginreplica/index.html",
+    "static/css/2.786ae0dd.chunk.css.map": "/loginreplica/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.3ebf29b2.chunk.css.map": "/loginreplica/static/css/main.3ebf29b2.chunk.css.map",
+    "static/js/2.a03dcabc.chunk.js.LICENSE.txt": "/loginreplica/static/js/2.a03dcabc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dc70cf7.js",
+    "static/css/2.786ae0dd.chunk.css",
+    "static/js/2.a03dcabc.chunk.js",
+    "static/css/main.3ebf29b2.chunk.css",
+    "static/js/main.8d79ef21.chunk.js"
+  ]
+}
